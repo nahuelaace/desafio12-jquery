@@ -13,3 +13,8 @@ button{
 button:hover{
     transform: scale(1.1);
 }
+
+.modo-oscuro{
+    display: none;
+    
+}
